@@ -28,7 +28,7 @@ public class fir {
 			n = ch*b + helf;
 			System.out.println(n);
 			answer += (n/a) * b ;
-			System.out.println(answer);
+			System.out.println("rkskek가123");
 		}
 		return answer;
 	}
