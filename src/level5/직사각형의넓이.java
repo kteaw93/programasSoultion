@@ -1,7 +1,8 @@
-package level5;
+ package level5;
 
 import java.util.Arrays;
 
+ 
 public class 직사각형의넓이 {
 
 	public static void main(String[] args) {
