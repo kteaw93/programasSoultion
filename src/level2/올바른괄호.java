@@ -16,6 +16,7 @@ public class 올바른괄호 {
 				cnt1++;
 			} else {
 				cnt2++;
+				
 			}
 		}
 		if (cnt1 == cnt2) {
