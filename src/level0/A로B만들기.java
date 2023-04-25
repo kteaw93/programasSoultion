@@ -8,7 +8,7 @@ public class A로B만들기 {
 		String before = "olleh";
 		String after = "hello";
 		int result = solution(before, after);
-		// System.out.println(result);
+		 System.out.println(result);
 	}
 
 	private static int solution(String before, String after) {
